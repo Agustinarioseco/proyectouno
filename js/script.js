@@ -105,3 +105,4 @@ function saveCanvas() {
   aText.click();
 }
 
+
